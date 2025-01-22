@@ -11,6 +11,10 @@ A hardware company that supplies computer hardware and peripheral devices is exp
 - `On-Site Business Analysis:` Difficulty in managing and analyzing on-site business operations effectively.  
 - `Cross-Reporting:` Inability to consolidate and analyze data scattered across multiple Excel records.  
 
+### Dashboard Screenshot
+![Project Image](ak.png)
+![Project Image](ak1.png)
+
 ### Purpose
 The primary purpose of this project is:  
 1. To unlock actionable sales insights for sales teams, enabling better decision-making.  
