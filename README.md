@@ -98,5 +98,5 @@ WHERE date.year = 2020 AND transactions.market_code = "Mark001";
 
 ### Clone this repository 
 ```bash
-git remote add origin 
+git clone https://github.com/AviralTechie/Sales_Insight.git
 ```
